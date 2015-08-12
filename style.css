@@ -1,0 +1,30 @@
+body {
+    background-color: #6699FF;
+}
+
+table
+{
+    background-color: #6699FF ;
+}
+
+a{
+        color: #ffffff;
+}
+
+    a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+
+}
+h1,h3{
+    color: #ffffff;
+}
+
+table td , tr
+{
+    font-size: 20px;
+    color: #ffffff;
+}
